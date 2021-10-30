@@ -3,9 +3,9 @@
  
  # Calculator App
  
-<a href="https://rebeccanayala.github.io/Calculator-App/">Website</a>
+<a href="https://rebeccanayala.github.io/calculator-app/">Website</a>
  
-<a href="https://rebeccanayala.github.io/Calculator-App/"><img src="https://i.postimg.cc/9F4Kps9T/calculator.png" width="350px"></a>
+<a href="https://rebeccanayala.github.io/calculator-app/"><img src="https://i.postimg.cc/9F4Kps9T/calculator.png" width="350px"></a>
  
 </div>
 
