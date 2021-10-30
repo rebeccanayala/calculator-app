@@ -23,7 +23,7 @@
 
 ## :dart: About
 
-This is an exercise proposed by True Coder on Youtube with the intention of training HTML5, CSS3 and JavaScript.
+This is an exercise proposed by True Coder with the intention of training HTML5, CSS3 and JavaScript.
 
 
 ##  :rocket: Technologies
